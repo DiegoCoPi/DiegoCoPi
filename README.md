@@ -1,5 +1,5 @@
 <h1>Ya que estas aqui, ¡tengo una cosa importante que decirte!</h1>
-## Mi nombre es Diego Alexander Corrales Piñeros
+<h2>Mi nombre es Diego Alexander Corrales Piñeros</h2>
 <br/>
 <p>
   Soy Ingeniero mecatronico y desarrollador web Full stack con espacialidad en el desarrollo de backend, con conocimeintos en el desarrollo de paginas web 
