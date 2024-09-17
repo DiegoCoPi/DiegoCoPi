@@ -2,6 +2,7 @@
 <h2>Mi nombre es Diego Alexander Corrales Piñeros</h2>
 
 <br/>
+<h2></h2>
 <p>
   Soy Ingeniero mecatronico y desarrollador web Full stack con espacialidad en el desarrollo de backend, con conocimeintos en el desarrollo de paginas web 
   desde el entorno del backend desde el diseño de la base de datos con lenguaje SQL y no SQL, con entorno de JavaScript y TypeScript, deployadores como render,
@@ -10,37 +11,32 @@
   cambio, afrontar los desafios, trabajar en equipo, tomar liderazgo ya sea parcial o total en un equipo, adicional soy una persona que me gusta autoexigirme, 
   alcanzar la excelencia, ser puntual, ético, profesional y ademas de crecer día a día.
 </p>
-
-<h3> Aqui esta mis redes profesionales</h3>
-  
-<a href="https://linkedin.com/in/diego-alexander-corrales-pineros">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/DiegoCoPi" target="_blank" target:"_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- 
 <br/>  
 
-
-## Sobre Mis Gustos
+## Sobre Mi
 <table><tr><td valign="top" width="50%">
 
 - 🍕 Me gusta Comer 
   
-- 🏃‍♂️ Me gusta estar en buena forma física y mental
+- 🏃🏽‍♂️ Me gusta estar en buena forma física y mental
   
 - 📚 Leer es vital para ejercitar nuestramente y abrirse al conocimiento
   
-- 👨‍💻 Programar me esta volviendo una pasión.
+- 👨🏽‍💻 Programar me esta volviendo una pasión y una de mis vocaciones.
 
+- 👨🏽‍🔧 La ingenieria es mi primera vocación.
 
 </td><td valign="top" width="50%">
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
+## ¿A donde me dirigo?
+<p>
+  Con mis conocimientos quiero ayudar a mejorar la calidad de vida de las personas a traves de la technología innovación y la inteligencia artificial
+  ya que el cambio trae desafios y retos que la ingenieria y el desarrollo web podria conllevar a una o varias oportunidad(es) de mejora e innovación.
+</p>
+<br/>
 
 ## Lenguajes de programación y herramientas 
 <div align="center">  
@@ -60,4 +56,14 @@
 </div>  
 
 <br/>  
+
+<h3> Si esta interesado y conocerme un poco más, aqui dejo mis redes profesionales, para estar en contacto: </h3>
+  
+<a href="https://linkedin.com/in/diego-alexander-corrales-pineros">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/DiegoCoPi" target="_blank" target:"_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
