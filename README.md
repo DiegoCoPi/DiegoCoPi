@@ -29,8 +29,9 @@
 </td><td valign="top" width="50%">
 
 </td></tr></table>  
-
 <br/>
+
+
 ## ¿A donde me dirigo?
 <p>
   Con mis conocimientos quiero ayudar a mejorar la calidad de vida de las personas a traves de la technología innovación y la inteligencia artificial
