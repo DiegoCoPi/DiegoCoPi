@@ -5,8 +5,12 @@
   Soy Ingeniero mecatronico y desarrollador web Full stack con espacialidad en el desarrollo de backend, con conocimeintos en el desarrollo de paginas web 
   desde el entorno del backend desde el diseño de la base de datos con lenguaje SQL y no SQL, con entorno de JavaScript y TypeScript, deployadores como render,
   cloudinary para almacenamiento de imagenes, docker para el deployado de paginas más grandes y robustas asu vez en la parte de frontend cuento con conocimientos
-  
+  y experiencia en lenguajes de JavaScript, TypeScript, React, Redux, Axios, Next,  TailwindCSS, Flowbite, CSS y HTML5. Ademas tengo la capacidad de adaptamer al
+  cambio, afrontar los desafios, trabajar en equipo, tomar liderazgo ya sea parcial o total en un equipo, adicional soy una persona que me gusta autoexigirme, 
+  alcanzar la excelencia, ser puntual, ético, profesional y ademas de crecer día a día.
 </p>
+
+<h3> Aqui esta mis redes profesionales</h3>
   
 <a href="https://linkedin.com/in/diego-alexander-corrales-pineros">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -14,15 +18,7 @@
 <a href="https://github.com/DiegoCoPi" target="_blank" target:"_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
+ 
 <br/>  
 
 
