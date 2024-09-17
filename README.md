@@ -1,4 +1,4 @@
-## Ya que estas aqui, ¡tengo una cosa importante que decirte!
+<h1>Ya que estas aqui, ¡tengo una cosa importante que decirte!</h1>
 ## Mi nombre es Diego Alexander Corrales Piñeros
 <br/>
 <p>
