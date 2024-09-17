@@ -1,5 +1,6 @@
 <h1>Ya que estas aqui, ¡tengo una cosa importante que decirte!</h1>
 <h2>Mi nombre es Diego Alexander Corrales Piñeros</h2>
+
 <br/>
 <p>
   Soy Ingeniero mecatronico y desarrollador web Full stack con espacialidad en el desarrollo de backend, con conocimeintos en el desarrollo de paginas web 
@@ -22,19 +23,16 @@
 <br/>  
 
 
-## Rapidfire  
+## Sobre Mis Gustos
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🍕 Me gusta Comer 
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🏃‍♂️ Me gusta estar en buena forma física y mental
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 📚 Leer es vital para ejercitar nuestramente y abrirse al conocimiento
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 👨‍💻 Programar me esta volviendo una pasión.
 
 
 </td><td valign="top" width="50%">
