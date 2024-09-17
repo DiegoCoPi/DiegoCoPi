@@ -1,6 +1,7 @@
 ## Ya que estas aqui, ¡tengo una cosa importante que decirte!
 ## Mi nombre es Diego Alexander Corrales Piñeros
-
+<br/>
+<br/>
 <p>
   Soy Ingeniero mecatronico y desarrollador web Full stack con espacialidad en el desarrollo de backend, con conocimeintos en el desarrollo de paginas web 
   desde el entorno del backend desde el diseño de la base de datos con lenguaje SQL y no SQL, con entorno de JavaScript y TypeScript, deployadores como render,
