@@ -71,7 +71,4 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a>
-  <img src=logos:google-gmail alt=gmail style="margin-bottom: 5px;" />
-</a>
-
+<p>correo : diegoalexander.cp@gmail.com</p>
