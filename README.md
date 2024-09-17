@@ -1,6 +1,6 @@
 ## Ya que estas aqui, ¡tengo una cosa importante que decirte!
-## Mi nombre es Diego Alexander Corrales Piñeros
 <br/>
+## Mi nombre es Diego Alexander Corrales Piñeros
 <br/>
 <p>
   Soy Ingeniero mecatronico y desarrollador web Full stack con espacialidad en el desarrollo de backend, con conocimeintos en el desarrollo de paginas web 
